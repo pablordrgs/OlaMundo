@@ -1,2 +1,3 @@
-# OlaMundo
-primeiro repositorio versionado
+# Olá, Mundo!
+Primeiro repositório versionado.
+Alteração supimpa.
